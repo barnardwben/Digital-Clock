@@ -10,4 +10,5 @@ body {
   font-family: 'Modak', cursive;
   font-size: 5rem;
   color: #32cd32;
+  text-shadow: 5px 5px 5px rgba(6, 158, 39, 0.6);
 }
